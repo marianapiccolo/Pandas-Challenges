@@ -1,1 +1,2 @@
-# Pandas-Challenges
+# Pandas Challenges
+Pandas Challenges exercises - Linkedin
